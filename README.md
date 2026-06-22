@@ -2,7 +2,7 @@
   <h1>¡Hola! Soy Edu 👋</h1>
   <p><strong>Desarrollador / Estudiante de DAW</strong></p>
   
-  <p>Bienvenido a mi perfil de GitHub. Me apasiona aprender nuevas tecnologías y conocer el mundo de la programación.</p>
+  <p>Bienvenido a mi perfil de GitHub. Me gusta aprender nuevas tecnologías, me apasiona la programación backend y conocer el mundo de la programación.</p>
 </div>
 
 <hr />
@@ -14,7 +14,6 @@
 
 <hr />
 
----
 ## 🛠️ Tecnologías y Herramientas
 
 Aquí tienes una vista a las tecnologías que he estado viendo y utilizando recientemente:
@@ -70,8 +69,6 @@ Aquí tienes una vista a las tecnologías que he estado viendo y utilizando reci
 </a>
 
 <hr />
-
---
 
 ## 🤝 Lenguajes más utilizados
 
