@@ -18,7 +18,7 @@
 
 Aquí tienes una vista a las tecnologías que he estado viendo y utilizando recientemente:
 
-<div style="display: flex; gap: 15px; justify-content: center">
+<div style="display: flex; gap: 30px; justify-content: center; align-items: center">
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
